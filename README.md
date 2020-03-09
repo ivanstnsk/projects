@@ -2,5 +2,5 @@
 
 ## Study projects
 
-- ts-quadtree
+- [ts-quadtree](https://github.com/ivanstnsk/ts-quadarray)
 - ts-quadarray
