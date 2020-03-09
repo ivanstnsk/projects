@@ -1,4 +1,6 @@
 # Cool-Projects
 
-TODO:
-- create to do list
+## Study projects
+
+- ts-quadtree
+- ts-quadarray
