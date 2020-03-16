@@ -1,4 +1,6 @@
-# Cool-Projects
+# Projects
+## Overview
+Here is the list of projects made by me or teams where I joined.
 
 ## Game projects
 - Tick Tack Toe - to add
